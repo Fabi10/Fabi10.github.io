@@ -1,3 +1,4 @@
 # Fabi10.github.io
 
-GitHub Pages Hosting für das Serious Game (Einstiegsspiel)
+GitHub Pages Hosting für die Serious Game - Anwendung (siehe Repository Serious-Game)
+
